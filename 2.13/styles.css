@@ -1,0 +1,26 @@
+.all{
+    background-color: aqua;
+    border: 2px solid green;
+    display: flex;
+}
+ul{
+    background-color: bisque;
+    box-sizing: border-box;
+    padding: 5px 0px 20px 40px;
+    margin-top: 0px;
+}
+.block2{
+    flex: 1;
+    display: grid;
+    background-color: darkgray;
+}
+img{
+    width: 50%;
+    float: right;
+}
+.block1{
+    width: 25%;
+}
+p {
+    margin:0;
+}

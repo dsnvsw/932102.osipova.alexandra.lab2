@@ -1,0 +1,17 @@
+.text1{
+    background-color: green;
+    width: 500px;
+    margin: auto;
+}
+p{
+    color: white;
+    margin: 10px;
+}
+.text2{
+    background-color: blue;
+    width: 500px;
+    margin: auto;
+    border: 15px solid blue;
+    padding: 15px;    
+}
+

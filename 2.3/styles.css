@@ -1,0 +1,9 @@
+.container{
+    background-color: blue;
+    width: 800px;
+    margin: auto;
+}
+p{
+    color: white;
+    margin: 10px;
+}

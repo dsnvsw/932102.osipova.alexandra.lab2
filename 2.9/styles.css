@@ -1,0 +1,12 @@
+p{
+    background-color: blue;
+    width: 800px;
+    position: relative;
+    color: white;
+    margin: auto;
+}
+.photo{
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}

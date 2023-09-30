@@ -1,0 +1,35 @@
+.all{
+    background-color: aqua;
+    border: 2px solid green;
+    display: flex;
+}
+ul{
+    background-color: bisque;
+    box-sizing: border-box;
+    padding: 5px 0px 20px 40px;
+    margin: 0px;
+}
+.block2{
+    background-color: darkgray;
+    display: grid;
+}
+.block1{
+    flex:30%;
+}
+@media (max-width: 1600px) {
+    .all {
+        flex-direction: column;
+    }
+    .block1 {
+        display: flex;
+        flex: 70px;
+        align-items: center;
+    }
+    .block1 ul {
+        width:100%;
+        display: flex;
+        gap: 5px;
+        list-style: none;
+        padding: 0 30px;
+    }
+}

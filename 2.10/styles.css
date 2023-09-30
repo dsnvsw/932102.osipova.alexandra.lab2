@@ -1,0 +1,9 @@
+.with-float{
+    background-color: aquamarine;
+    width: 200px;
+    height: 100px;
+    float:bottom;
+}
+.box{
+    background-color: bisque;
+}

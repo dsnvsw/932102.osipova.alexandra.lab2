@@ -1,0 +1,15 @@
+.text1{
+    width: 550px;
+    margin: auto;
+    padding: 5px;
+}
+p{
+    margin: 10px;
+}
+.text2{
+    width: 400px;
+    margin: auto;
+    border: 10px solid blue;
+    padding: 55px;    
+}
+

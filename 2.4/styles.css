@@ -1,0 +1,12 @@
+.parent{
+    text-align: center; 
+}
+.container{
+    background-color: blue;
+    max-width: 1000px;
+    display: inline-block;
+}
+p{
+    color: white;
+    margin: 10px;
+}

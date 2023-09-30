@@ -1,0 +1,21 @@
+.block1{
+    margin-right: 10px;
+    float: left;
+    width: 29%;
+}
+ul{
+    background-color: bisque;
+    box-sizing: border-box;
+    margin: 0;
+}
+.block2{
+    margin: 0px;
+    background-color: darkgray;
+    margin-right: 4px;
+    display: inline-block;
+    width: 70%;
+}
+.all{
+    background-color: aqua;
+    border: 1px solid green;
+}

@@ -1,0 +1,46 @@
+header{
+    background-color: #EAEAEA;
+    font-size: 30px;
+    height: 70px;
+    width: 100%;
+}
+header p{
+    margin-left: 10px;
+}
+.container-fixed{
+    background-color: #C8FC98;
+    width: 25%;
+    height: fit-content;
+}
+.container-fixed p{
+    margin: 5px;
+}
+i{
+    color: red;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+.container-fluid1{
+    margin: 5px;
+    width: 80%;
+}
+.container-fluid2{
+    width: 200px;
+    background-color: #FDE95E;
+}
+.container-fluid2 p{
+    margin: 5px;
+}
+*{
+    margin: 0;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+a{
+    color: yellow;
+}
